@@ -1,0 +1,20 @@
+{
+    "name": "havvg/search",
+    "description": "A search (result) abstraction.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Toni Uebernickel",
+            "email": "tuebernickel@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Havvg\\Component\\Search": ""
+        }
+    },
+    "target-dir": "Havvg/Component/Search",
+    "require-dev": {
+        "phpunit/phpunit": "~3.7"
+    }
+}
